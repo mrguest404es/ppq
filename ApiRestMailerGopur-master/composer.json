@@ -1,0 +1,6 @@
+{
+    "require": {
+        "chuyskywalker/rolling-curl": "^3.1",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
